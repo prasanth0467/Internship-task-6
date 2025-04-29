@@ -26,8 +26,8 @@ The objective was to analyze **monthly revenue** and **order volume** using SQL 
 
 ## Purpose
 - Practice using SQL aggregation, grouping, and time-based analysis.
-- Understand sales patterns over months.          |
-
+- Understand sales patterns over months.
+  
 ---
 
 ## Author
